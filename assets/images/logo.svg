@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="484.414"
+   inkscape:export-xdpi="484.414"
+   inkscape:export-filename="/Users/tabosque/Dropbox/project/limhaus/images/logo.svg.png"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 146.84377 44.851131"
+   height="44.851131mm"
+   width="146.84377mm">
+  <defs
+     id="defs2">
+    <rect
+       id="rect835"
+       height="44.601189"
+       width="129.26785"
+       y="125.4881"
+       x="24.946428" />
+  </defs>
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="0"
+     inkscape:window-y="127"
+     inkscape:window-x="2411"
+     inkscape:window-height="847"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="text833"
+     inkscape:document-units="mm"
+     inkscape:cy="116.95165"
+     inkscape:cx="348.95161"
+     inkscape:zoom="0.62"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-13.506553,-117.22321)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="レイヤー 1">
+    <g
+       aria-label="LIMHAUS"
+       id="text833"
+       style="font-size:21.1667px;line-height:1.25;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p';letter-spacing:3.43958px;white-space:pre;shape-inside:url(#rect835);stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         d="m 27.360269,146.33748 h 9.863683 v -1.35467 h -8.297347 v -13.46202 h -1.566336 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path846" />
+      <path
+         d="m 43.284899,146.33748 h 1.566336 v -14.81669 h -1.566336 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path848" />
+      <path
+         d="m 67.229392,131.52079 -6.371176,10.98552 -6.434677,-10.98552 H 53.13237 v 14.81669 h 1.502836 v -11.78985 l 5.820842,9.90601 h 0.740835 l 5.820842,-9.96951 v 11.85335 h 1.502836 v -14.81669 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path850" />
+      <path
+         d="m 87.625156,131.52079 v 6.60401 h -9.271015 v -6.60401 h -1.566336 v 14.81669 h 1.566336 v -6.83684 h 9.271015 v 6.83684 h 1.545169 v -14.81669 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path852" />
+      <path
+         d="m 108.49552,146.33748 h 1.651 l -6.77334,-14.81669 h -1.54517 l -6.773347,14.81669 h 1.629835 l 1.778003,-3.95817 h 8.255009 z m -9.461518,-5.22817 3.556008,-7.95868 3.556,7.95868 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path854" />
+      <path
+         d="m 121.67542,146.46448 c 3.78884,0 6.07485,-2.20134 6.07485,-6.45584 v -8.48785 h -1.524 v 8.42435 c 0,3.51367 -1.65101,5.12234 -4.55085,5.12234 -2.87867,0 -4.52967,-1.60867 -4.52967,-5.12234 v -8.42435 h -1.56634 v 8.48785 c 0,4.2545 2.30718,6.45584 6.09601,6.45584 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path856" />
+      <path
+         d="m 140.0157,146.46448 c 3.78884,0 5.52451,-1.86267 5.52451,-4.04284 0,-5.39751 -9.12285,-2.94217 -9.12285,-7.00618 0,-1.48167 1.2065,-2.68817 3.91584,-2.68817 1.31234,0 2.79401,0.40217 4.06401,1.22767 l 0.52917,-1.24883 c -1.18534,-0.82551 -2.92101,-1.31234 -4.59318,-1.31234 -3.76767,0 -5.46101,1.88384 -5.46101,4.06401 0,5.48217 9.12285,2.9845 9.12285,7.04851 0,1.4605 -1.2065,2.62467 -3.97934,2.62467 -1.94733,0 -3.83117,-0.762 -4.88951,-1.79917 l -0.61383,1.2065 c 1.10067,1.143 3.28084,1.92617 5.50334,1.92617 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path858" />
+    </g>
+    <path
+       id="rect839"
+       style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:120;stroke-opacity:1"
+       d="M 14.168013,117.88467 H 159.68886 v 43.52821 H 14.168013 Z" />
+  </g>
+</svg>
